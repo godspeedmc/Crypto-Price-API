@@ -25,7 +25,7 @@ The API is built using Node.js and Express. It makes use of the CoinGecko API to
 To get started, follow these simple steps:
 
 1. Clone the Repository:
-git clone [https://github.com/your-username/crypto-stock-price-api.git](https://github.com/godspeedmc/Crypto-Price-API.git)
+git clone https://github.com/godspeedmc/Crypto-Price-API.git
 
 2. Navigate to the Project Directory:
    
