@@ -4,7 +4,8 @@ This simple Node.js API provides a convenient way to fetch cryptocurrency stock 
 
 ##Features
 Single Endpoint: The API exposes a single endpoint to fetch the stock price of a specified cryptocurrency.
-How It Works
+
+##How It Works
 The API is built using Node.js and Express. It makes use of the CoinGecko API to retrieve real-time cryptocurrency price data.
 
 ##Installation
@@ -14,6 +15,7 @@ To get started, follow these simple steps:
 git clone [https://github.com/your-username/crypto-stock-price-api.git](https://github.com/godspeedmc/Crypto-Price-API.git)
 
 2. Navigate to the Project Directory:
+   
 cd Crypto Price API
 
 ##Usage
