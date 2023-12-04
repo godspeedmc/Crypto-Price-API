@@ -27,7 +27,7 @@ npm install
 
 ## Usage
 
-1.Run the API:
+1. Run the API:
 
 node app.js
 
