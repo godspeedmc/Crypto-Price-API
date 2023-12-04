@@ -29,7 +29,7 @@ git clone https://github.com/godspeedmc/Crypto-Price-API.git
 
 2. Navigate to the Project Directory:
    
-cd Crypto Price API
+cd Crypto-Price-API
 
 ##Usage
 
