@@ -14,10 +14,11 @@ To get started, follow these simple steps:
 git clone [https://github.com/your-username/crypto-stock-price-api.git](https://github.com/godspeedmc/Crypto-Price-API.git)
 
 2. Navigate to the Project Directory:
-cd crypto-stock-price-api
+cd Crypto Price API
 
 ##Usage
 1.Run the API:
+
 npm install
 
 The server will start on http://localhost:3000.
