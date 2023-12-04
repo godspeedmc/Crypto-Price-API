@@ -6,19 +6,19 @@ Overview
 
 This simple Node.js API provides a convenient way to fetch cryptocurrency stock prices using the CoinGecko API. It's designed to be easy to set up and use, making it a valuable tool for developers who need quick access to cryptocurrency pricing information.
 
-##Features
+## Features
 
 
 
 Single Endpoint: The API exposes a single endpoint to fetch the stock price of a specified cryptocurrency.
 
-##How It Works
+## How It Works
 
 
 
 The API is built using Node.js and Express. It makes use of the CoinGecko API to retrieve real-time cryptocurrency price data.
 
-##Installation
+## Installation
 
 
 
@@ -38,7 +38,7 @@ npm install
 
 
 
-##Usage
+## Usage
 
 1.Run the API:
 
