@@ -31,13 +31,17 @@ git clone https://github.com/godspeedmc/Crypto-Price-API.git
    
 cd Crypto-Price-API
 
-##Usage
 
-
-
-1.Run the API:
+3. Install Dependencies:
 
 npm install
+
+
+
+##Usage
+
+1.Run the API:
+node app.js
 
 The server will start on http://localhost:3000.
 
