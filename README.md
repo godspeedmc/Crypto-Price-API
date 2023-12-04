@@ -42,8 +42,6 @@ npm install
 
 1.Run the API:
 
-
-
 node app.js
 
 The server will start on http://localhost:3000.
